@@ -1,5 +1,5 @@
 # cnc-laser-rotor-and-3d-head
-# a 3 in one mmachines
+# a 3 in one machines
 # laser 1500mw
 # motor with rotary drill & cutting tools
 # hot nozzle 260° for 3D Print
